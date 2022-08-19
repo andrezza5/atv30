@@ -1,0 +1,14 @@
+Segue abaixo os dois sites inspecionados:
+
+1 - O google, na sua tela inicia, onde verifiquei o comando input, conforme abaixo onde recebe os dados do usurio para pesquisa.
+
+<input id="input" type="search" autocomplete="off" spellcheck="false" role="combobox" placeholder="Pesquise no Google ou digite um URL" aria-live="polite">
+
+2 - Site de concurso PCI, onde verifiquei que o usuário pode clicar na região de seu interesse e ao inspecionar há a divisão por classes pelo javascript.
+
+<div id="concursos">==
+<div class="ads_mobi">
+<div class="ads10">
+<ul class="regioes">
+<h2>REGIAO NORDESTE</H2>
+
